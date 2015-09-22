@@ -1,0 +1,11 @@
+[core]
+  excludesfile = /Users/michaelwest/.gitignore
+
+
+
+
+[user]
+	name = Michael West
+	email = mswest46@gmail.com
+[push]
+	default = simple
